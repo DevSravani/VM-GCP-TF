@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "learning-project-414414",
+    "private_key_id": "c618223b6c4155afa11dc83225722b603901a0a7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCvaRjLmF1PpA/A\nlUdvYhWhM1EhURjZ0/1tioaOow+hcLLYIQ0VqldxVzpw0Kw7jSlh3Gfa+kmhXWln\nI8phmpVZieNZbkFZysKDEaoD7xrmACr+lrT+NvXPzHlZhBetb7wmigKKmqr7/02q\nf+27fkYk9sqaZTnD/Wwk7C2tSaManB1YpJqfnlPEeky6fVHSp+0z3Y3OTLzrq9FT\nH6XLOrZ4mGi7Vn5DCC/bgsR+3SwSAs/B1IcLxKmFHiiMJe2dqgoycSAQIPEtuhS9\njUMCiAs76SyPjxHM9xiIAniUEtQ5Yyx4nU2E18d0HZBLDdjGdDHbaAnyBLYCNOb8\nQ49PBc73AgMBAAECggEAGAsIygdVavAq9JPBmePQ4SqeiTmLdXgYOaaOMQjqwI8p\nBHTrTTfvCmsRaJtBsFv1+yLx3VMHOqYKJ4gBWoWMyRwcXIq/TGZ9aOfH7QgeIL6P\nJhxULLAt21DEpV90u2IgYQvzsznmC+p/o8orNNLnHHPza1xKobGf3CO/UwxP3fqj\nSmizYuXj9XyOyyanwjIfSVFBx9FxOBAU9cugTIqSHAs+g6zaNTfh968H5gumGwc8\n+Rb5XW0NiQERvbcdpJQcny6exB2hHyQ8L3JT5I/0IHPfl3hC5fakLZA1JgWMVCjO\nffaV5oPDRbE/eZxF+i2YzYxVL0b1eV4rq7cRT2+MuQKBgQD2y7u6XFsA45OkRs1z\n5CtdoIYG6v8/4v5n4JErj+9Dnu8q8v1TjA3QD0BjZXVBqKv14B9B3At9k8m0B3Z4\nnHqMgzkTKIu2uDmXWE4e+t+IZFqFNqJpa5/9LPGFDn7Eo2qZ0uRK0trOVtAXX+Xk\nW2MR2RdnBKDpF2DR19lcTCh4lQKBgQC189EzJayD0+toxD0irHWfPLEQ0UHGSd90\nR8ORKv9W9h7sXYa9KlYiI9WkS8Z3+LuXq7vecFEncDcqivzR1Qx1+0YhSdVtnrND\nshA5EJUkIXQI+QDhipcjcYMJvnDpmyAU1YMYflvg4MHpWSqlNWqyFknVPOVcVv1R\niIlndlCqWwKBgQC6730F3zjLRpYpo7uxoc27QIDkspGe6ah8NFyhm4fHN5a/eIis\nBPTdeP/zigE0N7fxKM9kSnGlsBDjPZfeKeClmCveOCMDxy1QVwHtc2dn32O1bbm9\nklkAI0/Z0i3xcjqnw1dK2cYE7zr1yZzPyO0UstSIIrhjdmLO7+ljgQhStQKBgQCe\n47GV5ppF7HOwY123v75fNdKyCupTTANUOa7wQAoGWJsccXfODQB2g7B27qz76zt1\n8UP3tUFJHVcvUXwBiPh+ttTBEQbN2T5WKVK9Ylu613PKuhco3auqCeASTDmx5gMX\n7nOymfWF5P+w1GrHJmRr68bB7ZGlF1nTL1Y+ATXj7QKBgQDRZzL4EphkQuoDlHSE\nC+PNer3P8Ya6MA2HD5DRO49Grrri8KTbRa8DFMXl26AAonBeJh0IkEsrEhvD2N3c\n2GicgDg3QinZ6OXuUU3qTCs9h4JrCBJyO63+NfXkkQRKEt3JEWlImOF8Q0bJD4Lz\nRXPNFABUTQHVv89m8hs6eUG2bA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "terraform-vm@learning-project-414414.iam.gserviceaccount.com",
+    "client_id": "109494004717933677934",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-vm%40learning-project-414414.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
